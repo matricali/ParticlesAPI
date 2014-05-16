@@ -1,6 +1,0 @@
-name: RASParticulasAPI
-version: 1.0
-description: Particles handler API
-author: jorge-matricali
-website: jorge.matricali@gmail.com
-main: ras.minecraft.plugin.particulasapi.ParticlesAPI
